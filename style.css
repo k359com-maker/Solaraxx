@@ -116,14 +116,15 @@ body {
 #particles-js{ position:fixed; top:0; left:0; width:100%; height:100%; z-index:-3; }
 
 #footer-credit {
-    position: fixed;          /* อยู่คงที่ */
-    left: 1vw;                /* เว้นซ้ายเล็กน้อย */
-    bottom: 1vh;              /* เว้นล่างเล็กน้อย */
-    font-size: 10px;          /* ตัวอักษรเล็ก */
+    position: fixed;        
+    left: 1vw;               
+    bottom: 1vh;             
+    font-size: 10px;       
     color: white;
-    opacity: 0.4;             /* โปร่งใสเล็กน้อย */
-    z-index: 1000;            /* อยู่เหนือ element อื่น */
+    opacity: 0.4;           
+    z-index: 1000;            
     font-family: 'Orbitron', sans-serif;
-    pointer-events: none;     /* ไม่บังการคลิกอื่น */
+    pointer-events: none;    
 }
+
 
